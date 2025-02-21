@@ -12,6 +12,3 @@
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=spring&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-
-## 📈 GitHub Stats
-![Chung's GitHub stats](https://github-readme-stats.vercel.app/api?username=khuatvanchung&show_icons=true&theme=radical)
