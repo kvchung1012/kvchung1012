@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Khuat Van Chung!
+🚀 Web Developer | 🏗 .NET & Java Spring Boot | 🖥 MongoDB, EF Core
 
-<!--
-**kvchung1012/kvchung1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 About Me
+- 💡 Passionate about building scalable applications and backend systems.
+- 💻 Experienced in .NET, Java, Golang, and Rust.
+- 📸 Exploring photography with my **Sony A6000**.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+![C#](https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=spring&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Chung's GitHub stats](https://github-readme-stats.vercel.app/api?username=khuatvanchung&show_icons=true&theme=radical)
